@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="c47dbfd8318212108a7c7b974a26f241" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element label="Kinetic Deferral Token" max_length="40" name="x_1569849_momentum_kinetic_deferral_token" type="string"/>
+        <element label="Kinetic Submission ID" max_length="40" name="x_1569849_momentum_kinetic_submission_id" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_1569849_momentum_kinetic_deferral_token" label="Kinetic Deferral Token" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_1569849_momentum_kinetic_deferral_token</element>
+            <help/>
+            <hint/>
+            <label>Kinetic Deferral Token</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-16 22:41:14</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Kinetic Deferral Token</sys_name>
+            <sys_package display_value="Momentum" source="x_1569849_momentum">f312e289c3ae16106af3bb02b4013108</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Momentum">f312e289c3ae16106af3bb02b4013108</sys_scope>
+            <sys_update_name>sys_documentation_incident_x_1569849_momentum_kinetic_deferral_token_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-16 22:41:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
